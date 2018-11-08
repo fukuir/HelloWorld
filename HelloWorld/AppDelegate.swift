@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  HelloWorld
 //
-//  Created by 福井千裕 on 2018/11/08.
+//  Created by 福井 on 2018/11/08.
 //  Copyright © 2018年 fukuir. All rights reserved.
 //
 
